@@ -1,0 +1,7 @@
+# project
+.env
+build
+
+# IntelliJ
+.idea
+*.iml
